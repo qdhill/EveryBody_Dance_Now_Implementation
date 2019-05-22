@@ -53,12 +53,12 @@ Simple use of GANs and CNNs<br/>
 
 ## How To Use
 
-- Clone or download the repo
-- obtain target dataset - the person you want to perform the generated poses on.
-- Obtain the test dataset to source the pose estimation from
-- Train the GAN model on the target dataset 
-- Transfer the models learnt outcome to output synthesise images, using generator and the semantic label heat map of the poses.
-- Create video from moving frames.
+Clone or download the repo<br/>
+Obtain target dataset - the person you want to perform the generated poses on.<br/>
+Obtain the test dataset to source the pose estimation from<br/>
+Train the GAN model on the target dataset<br/>
+Transfer the models learnt outcome to output synthesise images, using generator and the semantic label heat map of the poses.<br/>
+Create video from moving frames.<br/>
 ## Download 
 Clone the github repo including source. 
 
