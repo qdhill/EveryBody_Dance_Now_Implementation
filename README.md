@@ -47,9 +47,9 @@ pix2pixHD GAN can read on NVIDIA's documentation. The details of the GAN is also
 
 ## Key Features
 
-* Create gifs or videos of synthesized dance moves
-* Make people you know dance!
-* Simple use of GANs and CNNs
+Create gifs or videos of synthesized dance moves<br/>
+Make people you know dance!<br/>
+Simple use of GANs and CNNs<br/>
 
 ## How To Use
 
@@ -64,18 +64,8 @@ Clone the github repo including source.
 
 
 ---
-> GitHub [@amitmerchant1990](https://github.com/daminiR/) &nbsp;&middot;&nbsp;
+> GitHub [@DaminiR](https://github.com/daminiR/) &nbsp;&middot;&nbsp;
 > LinkedIn [Damini K Rijhwani](www.linkedin.com/in/drijhwan)
-
-
-
-
-
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Build Process](#build-process)
-- [License](#License)
 
 
 
