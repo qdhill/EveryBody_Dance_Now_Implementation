@@ -32,7 +32,7 @@
   <a href="#license">License</a>
 </p>
 
-<div id=”mainDiv”>
+<div id=”mainDiv”, align="center">
 
 ![](new_gif_blog.gif)
 
