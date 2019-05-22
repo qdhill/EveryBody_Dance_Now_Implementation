@@ -35,7 +35,7 @@
 
 <div id=”mainDiv”, align="center">
 
-![](new_gif_blog.gif)
+![](loop-correct.gif)
 
 <\div>
 ## Intro 
