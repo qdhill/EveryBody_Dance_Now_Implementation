@@ -37,7 +37,6 @@
 
 ![](loop-correct.gif)
 
-<\div>
 ## Intro 
 
 This is an implementation of a research paper, Everybody Dance Now. The main objective of the project is to allow frames of poses to be synthesized which in turn can be used for showcasing dance moves or any movement.
