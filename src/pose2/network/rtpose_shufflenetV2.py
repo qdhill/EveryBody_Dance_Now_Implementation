@@ -227,4 +227,4 @@ if __name__ == '__main__':
         caffe_results = caffe_net.forward(blobs=['fc'])
         cls_results_caffe = caffe_results['fc']
         print(cls_results_caffe.shape)
-        assert_diff
+        assert_diff(cls_results, cls_results_caffe)
