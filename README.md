@@ -34,7 +34,7 @@
 
 <div id=”mainDiv”>
 
-<img id=”centerdImage” src=”new_gif_blog.gif”><\img>
+![](new_gif_blog.gif)
 
 <\div>
 
