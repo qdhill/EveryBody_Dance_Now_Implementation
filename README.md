@@ -63,8 +63,9 @@ Clone the github repo including source.
 
 
 ---
-> LinkedIn [Damini K Rijhwani](https://www.linkedin.com/in/drijhwan)
-> GitHub [@DaminiR](https://github.com/daminiR/) 
+> LinkedIn [Damini K Rijhwani](https://www.linkedin.com/in/drijhwan)<br/>
+> GitHub [@DaminiR](https://github.com/daminiR/) <br/>
+> AI Blog  [Disrupt Culture](https://thedisruptculture.com/) <br/>
 
 
 
