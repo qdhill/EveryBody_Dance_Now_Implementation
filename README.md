@@ -42,7 +42,7 @@
 
 This is an implementation of a research paper, Everybody Dance Now. The main objective of the project is to allow frames of poses to be synthesized. This in turn can be used for showcasing dance moves or any movement.
 The paper utilizes pix2pixHD generative adversarial model to synthesize an image from semantic pose heat maps. The poses are obtain from openPose framework. Heat maps and part affinity maps are used to perform pose estimation.
-The pix2pixHD GAN introduces, several separate inputs to the generator and the deliminator, while having multiple decriminators that advance the photo realistic depiction of the synthesized image.Further details about the 
+The pix2pixHD GAN introduces, several separate inputs to the generator and the discriminator, while having multiple decriminators that advance the photo realistic depiction of the synthesized image.Further details about the 
 pix2pixHD GAN can read on NVIDIA's <a href="https://github.com/NVIDIA/pix2pixHD">github</a>  or in my <a href="https://thedisruptculture.com/2019/04/20/high-resolution-image-synthesis-and-semantic-manipulation-with-conditional-gans-explained/">blog</a>.   
 
 ## Key Features
